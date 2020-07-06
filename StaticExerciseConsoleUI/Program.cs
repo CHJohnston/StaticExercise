@@ -6,6 +6,8 @@ namespace StaticExerciseConsoleUI
     {
         static void Main(string[] args)
         {
+            //Static Keyword Exercise #1 
+
             Console.WriteLine("Temperature Conversion");
             //Convert Fahrenheit to Celsius
             Console.Write("Enter a Temperature in Fahrenheit to Convert to Celsius: ");                
